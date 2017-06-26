@@ -1,0 +1,20 @@
+{
+  "name": "kangaijun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.15.3",
+    "gulp": "^3.9.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-ruby-sass": "^2.1.1",
+    "gulp-webserver": "^0.9.1",
+    "imagemin-pngquant": "^5.0.1"
+  }
+}
